@@ -10,5 +10,5 @@ export APP=az104-webapp-example
 Launch build and publish to Azure
 
 ```bash
-./publish 
+./publish.sh
 ```

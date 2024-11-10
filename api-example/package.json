@@ -1,0 +1,15 @@
+{
+    "name": "api-example",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Api Example on ACI",
+    "author": "Walter <wocampodev@outlook.com>",
+    "license": "MIT",
+    "type": "module",
+    "main": "index.js",
+    "keywords": [
+        "nodejs",
+        "azure"
+    ],
+    "dependencies": {}
+}
